@@ -20,6 +20,9 @@
 <br>
 <br>
 <div align="center">
+  <img src="app/src/main/screenshots/home.png" width="300" alt="image">
+</div>
+<div align="center">
   
 # ⬇️ Download
 <a href="https://github.com/micokpori/Anime-NotePad/releases"><img alt="Get it on GitHub" src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" height=80px />
