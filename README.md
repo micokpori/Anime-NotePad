@@ -20,7 +20,9 @@
 <br>
 <br>
 <div align="center">
-  <img src="app/src/main/screenshots/home.png" width="300" alt="image">
+  <img src="app/screenshots/home.png" width="300" alt="image">
+  <img src="app/screenshots/settings.png" width="300" alt="image">
+  <img src="app/screenshots/trash.png" width="300" alt="image">
 </div>
 <div align="center">
   
